@@ -1,4 +1,4 @@
-📈 The basics of CMake
+⚙️ The basics of CMake
 ======================
 
 ### 📖 Primer
