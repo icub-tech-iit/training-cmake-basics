@@ -3,7 +3,7 @@
 
 ### 📖 Primer
 For completing this course you need to have installed on your machine:
-- `CMake`
+- [`CMake`](https://cmake.org/)
 - Any c++ compiler
 - A text editor(an IDE is recommended)
 
