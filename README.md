@@ -32,7 +32,7 @@ It may be better to use a text editor to follow the hands on, then I suggest you
   $ sudo apt-get install geany
 ```
 
-Actually you can install the whatever text editor you like (e.g. `kate`, `gedit`, `nano`, `vim`, `atom`, `vs-code`. 
+Actually you can install the whatever text editor you like (e.g. `kate`, `gedit`, `nano`, `vim`, `atom`, `vs-code`). 
 
   
 
