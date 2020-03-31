@@ -2,7 +2,7 @@
 ======================
 
 ### 📖 Primer
-For completing this cours you need to have installed on your machine:
+For completing this course you need to have installed on your machine:
 - `CMake`
 - Any c++ compiler
 - A text editor(an IDE is recommended)
