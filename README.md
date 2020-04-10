@@ -47,6 +47,18 @@ Follow these steps:
 
 The output should be:
 ```bash
+Executable standalone example
+The operators are: 15 and 10
+The sum is: 25
+The difference is: 5
 ```
+
+if everything is fine you have to commit your work then:
+
+```bash
+$ git commit -am "My hands on works!"
+$ git push origin master
+```
+
 
 ℹ This repository contains the material required for the training on basics of CMake.
