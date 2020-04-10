@@ -34,11 +34,14 @@ It may be better to use a text editor to follow the hands on, then I suggest you
 
 Actually you can install the whatever text editor you like (e.g. `kate`, `gedit`, `nano`, `vim`, `atom`, `vs-code`). 
 
-### :pencil:  Hands-on
+### :pencil: Assignment
 
-The hands-on consist in the compilation of a simple executable that given 2 numbers (15 and 10), calculate the sum and the differece.
-Follow these steps:
-1. Open the `CMakeLists.txt` and fill all the TODO sections, following the teacher instructions.
+The assignment will be similar to the hands-on, but with the difference that your executable will have to do the same thing
+but using the library `myLib` defined in this repo.
+
+For doing it you will have to follow these steps:
+
+1. Open the `CMakeLists.txt` and `src/myLib/CMakeLists.txt` and fill all the TODO sections..
 2. Once finished and saved create the build directory: `$ mkdir build`
 3. Enter in the build directory: `$ cd build`
 4. Configure and generate the makefiles: `$ cmake ..`
@@ -47,7 +50,7 @@ Follow these steps:
 
 The output should be:
 ```bash
-Executable standalone example
+Executable example using the library!
 The operators are: 15 and 10
 The sum is: 25
 The difference is: 5
@@ -56,9 +59,10 @@ The difference is: 5
 if everything is fine you have to commit your work then:
 
 ```bash
-$ git commit -am "My hands on works!"
-$ git push origin master
+$ git commit -am "My assignment works!"
+$ git push origin assignment
 ```
-
+At this point open a PR with base branch `master` and target `assignment`.
+Put @Nicogene as reviewer and merge after my approval :wink:
 
 ℹ This repository contains the material required for the training on basics of CMake.
