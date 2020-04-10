@@ -42,7 +42,7 @@ Follow these steps:
 2. Once finished and saved create the build directory: `$ mkdir build`
 3. Enter in the build directory: `$ cd build`
 4. Configure and generate the makefiles: `$ cmake ..`
-5. Compile your program: `$make`
+5. Compile your program: `$ make`
 6. Run: `./myExecutable`
 
 The output should be:
