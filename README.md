@@ -34,7 +34,7 @@ It may be better to use a text editor to follow the hands on, then I suggest you
 
 Actually you can install the whatever text editor you like (e.g. `kate`, `gedit`, `nano`, `vim`, `atom`, `vs-code`). 
 
-### Hands-on
+### :pencil:  Hands-on
 
 The hands-on consist in the compilation of a simple executable that given 2 numbers (15 and 10), calculate the sum and the differece.
 Follow these steps:
