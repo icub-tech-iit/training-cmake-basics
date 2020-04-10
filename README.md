@@ -34,6 +34,19 @@ It may be better to use a text editor to follow the hands on, then I suggest you
 
 Actually you can install the whatever text editor you like (e.g. `kate`, `gedit`, `nano`, `vim`, `atom`, `vs-code`). 
 
-  
+### Hands-on
+
+The hands-on consist in the compilation of a simple executable that given 2 numbers (15 and 10), calculate the sum and the differece.
+Follow these steps:
+1. Open the `CMakeLists.txt` and fill all the TODO sections, following the teacher instructions.
+2. Once finished and saved create the build directory: `$ mkdir build`
+3. Enter in the build directory: `$ cd build`
+4. Configure and generate the makefiles: `$ cmake ..`
+5. Compile your program: `$make`
+6. Run: `./myExecutable`
+
+The output should be:
+```bash
+```
 
 ℹ This repository contains the material required for the training on basics of CMake.
